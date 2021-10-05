@@ -1,0 +1,260 @@
+{"0": {
+    "doc": "Sobre",
+    "title": "Sobre",
+    "content": "É garantida a permissão para copiar, distribuir e/ou modificar este documento sob os termos da Licença de Documentação Livre GNU (GNU Free Documentation License), Versão 1.2 ou qualquer versão posterior publicada pela Free Software Foundation; sem Seções Invariantes, Textos de Capa Frontal, e sem Textos de Quarta Capa. Uma cópia da licença é incluída na seção intitulada “GNU Free Documentation License”. You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "http://localhost:9898/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Cancela linha em branco (%)",
+    "content": "Cancela as linhas em branco prévias, se houver. ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html",
+    "relUrl": "/docs/cancela_linha_em_branco.html"
+  },"2": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Tabela de conteúdo",
+    "content": ". | Suporte | Sintaxe | Exemplos | Veja também | . ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html#tabela-de-conte%C3%BAdo",
+    "relUrl": "/docs/cancela_linha_em_branco.html#tabela-de-conteúdo"
+  },"3": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Suporte",
+    "content": "Standard . ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html#suporte",
+    "relUrl": "/docs/cancela_linha_em_branco.html#suporte"
+  },"4": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Sintaxe",
+    "content": "% . ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html#sintaxe",
+    "relUrl": "/docs/cancela_linha_em_branco.html#sintaxe"
+  },"5": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Exemplos",
+    "content": "1 |Nome: |v1^n,c20,|Sobrenome:|v1^s,###,%,/, 2 v10/#,v20/#,v30/#,%#, . ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html#exemplos",
+    "relUrl": "/docs/cancela_linha_em_branco.html#exemplos"
+  },"6": {
+    "doc": "Cancela linha em branco (%)",
+    "title": "Veja também",
+    "content": "comando / comando # . ",
+    "url": "http://localhost:9898/docs/cancela_linha_em_branco.html#veja-tamb%C3%A9m",
+    "relUrl": "/docs/cancela_linha_em_branco.html#veja-também"
+  },"7": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Estrutura da lista de referência",
+    "content": "Se Standard, significa que o comando/função tem o mesmo uso/resultado em ambos: ISIS e CISIS. Se for especificado CISIS, significa que o comando/função só está disponível em CISIS. Comandos/funções que foram melhorados em CISIS, são apresentados com a notação de Standard/CISIS. (item sempre presente) . ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html",
+    "relUrl": "/docs/estrutura_de_referencia.html"
+  },"8": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Tabela de conteúdo",
+    "content": ". | Suporte | Tipo de função | Sintaxe | Definição | Componentes | Notas | . ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#tabela-de-conte%C3%BAdo",
+    "relUrl": "/docs/estrutura_de_referencia.html#tabela-de-conteúdo"
+  },"9": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Suporte",
+    "content": "Se Standard, significa que o comando/função tem o mesmo uso/resultado em ambos: ISIS e CISIS. Se for especificado CISIS, significa que o comando/função só está disponível em CISIS. Comandos/funções que foram melhorados em CISIS, são apresentados com a notação de Standard/CISIS. (item sempre presente) . ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#suporte",
+    "relUrl": "/docs/estrutura_de_referencia.html#suporte"
+  },"10": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Tipo de função",
+    "content": "Especifica o tipo do valor de retorno da função. Os possíveis valores são: Boolean, String e Numeric. (item só aplicável às funções). ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#tipo-de-fun%C3%A7%C3%A3o",
+    "relUrl": "/docs/estrutura_de_referencia.html#tipo-de-função"
+  },"11": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Sintaxe",
+    "content": "Notação formal do uso do comando/função. (item sempre presente). ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#sintaxe",
+    "relUrl": "/docs/estrutura_de_referencia.html#sintaxe"
+  },"12": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Definição",
+    "content": "Exposição do uso do comando/função. ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#defini%C3%A7%C3%A3o",
+    "relUrl": "/docs/estrutura_de_referencia.html#definição"
+  },"13": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Componentes",
+    "content": "Exposição de características adicionais do comando/função. ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#componentes",
+    "relUrl": "/docs/estrutura_de_referencia.html#componentes"
+  },"14": {
+    "doc": "Estrutura da lista de referência",
+    "title": "Notas",
+    "content": "Esclarece particularidades, restrições e/ou diferenças entre ISIS e CISIS. ",
+    "url": "http://localhost:9898/docs/estrutura_de_referencia.html#notas",
+    "relUrl": "/docs/estrutura_de_referencia.html#notas"
+  },"15": {
+    "doc": "Início",
+    "title": "CISIS - Linguagem de formato",
+    "content": "Cancela as linhas em branco prévias, se houver. ",
+    "url": "http://localhost:9898/#cisis---linguagem-de-formato",
+    "relUrl": "/#cisis---linguagem-de-formato"
+  },"16": {
+    "doc": "Início",
+    "title": "Tabela de conteúdo",
+    "content": ". | Uso básico | Uso com HTML | Uso no ABCD | . A linguagem de formato CISIS é constituida de uma série de comandos e funcões que permitem a formatação do conteúdo dos campos de dados de bases de dados ISIS. Esta linguagem serve para definir como os dados inseridos em uma base de dados serão exibidos na tela. O ABCD utiliza a Linguagem de Formato mesclada com HTML, portanto é necessário um conhecimento básico prévio em HTML para criar formatos de dados. ",
+    "url": "http://localhost:9898/#tabela-de-conte%C3%BAdo",
+    "relUrl": "/#tabela-de-conteúdo"
+  },"17": {
+    "doc": "Início",
+    "title": "Uso básico",
+    "content": "O uso mais comum da linguagem de formatação acontece quando um campo precisa ser exibido na tela, exemplo: . | Campo autor na base MARC | . O campo autor é representado pela tag 100, no MARC. No ABCD a tag precisa vir acompanhada da letra v para ser identificada, ou seja: . v100 . Neste caso, todas as informações, preenchidas no campo 100 no MARC seriam exibidas. Isto inclui subcampos. Portanto para exibir apenas o subcampo do autor no campo 100, é preciso filtrar pelo subcampo a. No ABCD isto acontece pelo identificador ^a. Para exibir o subcampo de autor do campo 100 do MARC utilizamos o formato: . v100^a . ",
+    "url": "http://localhost:9898/#uso-b%C3%A1sico",
+    "relUrl": "/#uso-básico"
+  },"18": {
+    "doc": "Início",
+    "title": "Uso com HTML",
+    "content": "Para que a Linguagem de Formato CISIS funcione em um sistema WEB como o ABCD, é preciso mesclar com uma linguagem que possa ser interpretada por um navegador. O mais comum é o HTML, que é uma linguagem de marcação de texto. Para usar a Linguagem de Formato com HTML é necessário colocar o HTML entre aspas simples ‘&lt;html&gt;&lt;/html&gt;‘ e a cada intervalo de inserção de campos cuidar para que o HTML esteja devidamente fechado entre suas aspas. Exemplo: . '&lt;p&gt;&lt;b&gt;Autor:&lt;/b&gt;' v100^a '&lt;/p&gt;' . Isto vai exibir na tela: . Autor: Assis, Machado . ",
+    "url": "http://localhost:9898/#uso-com-html",
+    "relUrl": "/#uso-com-html"
+  },"19": {
+    "doc": "Início",
+    "title": "Uso no ABCD",
+    "content": "A linguagem de formato é utilizada no ABCD para praticamente tudo, portanto é muito importante aprender o básico para dar mais liberdade na hora de gerenciar os recursos do sistema. Você verá linguagem de formato em: . | Indexação de dados; | Dicionário de termos; | Relatórios; | Estatísticas; | Recibos; | Conexão entre bases de dados; | Conversão de dados. | . Utilize a barra lateral a esquerda para navegar ou utilize a busca no campo superior para localizar os comandos. ",
+    "url": "http://localhost:9898/#uso-no-abcd",
+    "relUrl": "/#uso-no-abcd"
+  },"20": {
+    "doc": "Início",
+    "title": "Início",
+    "content": " ",
+    "url": "http://localhost:9898/",
+    "relUrl": "/"
+  },"21": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Literal condicional “string”",
+    "content": "Mostra o texto que está entre aspas duplas só se &lt;field selector&gt;, &lt;dummy selector&gt; ou &lt;not present&gt;, são avaliados como TRUE (verdadeiro). As literais, prefixas e sufixas, podem ser colocadas junto a um &lt;field selector&gt; de modo que o dado contido no campo também seja visualizado. Se for associada a um &lt;dummy selector&gt;, a saída só é gerada se o campo tiver dados. Se for associada a &lt;not present&gt;, a saída só é gerada se o campo não tiver dados. ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#literal-condicional-string",
+    "relUrl": "/docs/literal_condicional.html#literal-condicional-string"
+  },"22": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Tabela de conteúdo",
+    "content": ". | Suporte | Sintaxe | Notas | Exemplos | Veja também | . ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#tabela-de-conte%C3%BAdo",
+    "relUrl": "/docs/literal_condicional.html#tabela-de-conteúdo"
+  },"23": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Suporte",
+    "content": "Standard . ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#suporte",
+    "relUrl": "/docs/literal_condicional.html#suporte"
+  },"24": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Sintaxe",
+    "content": "\"&lt;text&gt;\"&lt;field selector &gt;\"&lt;text&gt;\" \"&lt;text&gt;\"&lt;dummy field (selector)&gt; \"&lt;text&gt;\"&lt;not present&gt; . ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#sintaxe",
+    "relUrl": "/docs/literal_condicional.html#sintaxe"
+  },"25": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Notas",
+    "content": "&lt;text&gt; é produzido uma só vez, independientemente da repetibilidade do campo. ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#notas",
+    "relUrl": "/docs/literal_condicional.html#notas"
+  },"26": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Exemplos",
+    "content": "1 \"Autor: \"v1^a, 2 \"este texto é gerado na saída se o campo de 10 estiver presente\"d10, 3 \" este texto é gerado na saída se o campo 5 estiver ausente\"n5, . ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#exemplos",
+    "relUrl": "/docs/literal_condicional.html#exemplos"
+  },"27": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Veja também",
+    "content": "comando 'string' comando |string| comando d Comando n comando v . ",
+    "url": "http://localhost:9898/docs/literal_condicional.html#veja-tamb%C3%A9m",
+    "relUrl": "/docs/literal_condicional.html#veja-também"
+  },"28": {
+    "doc": "Literal condicional \"string\"",
+    "title": "Literal condicional \"string\"",
+    "content": " ",
+    "url": "http://localhost:9898/docs/literal_condicional.html",
+    "relUrl": "/docs/literal_condicional.html"
+  },"29": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Literal incondicional ‘string’",
+    "content": "Mostra incondicionalmente o texto contido entre aspas simples. ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#literal-incondicional-string",
+    "relUrl": "/docs/literal_incondicional.html#literal-incondicional-string"
+  },"30": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Tabela de conteúdo",
+    "content": ". | Suporte | Sintaxe | Notas | Exemplos | Veja também | . ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#tabela-de-conte%C3%BAdo",
+    "relUrl": "/docs/literal_incondicional.html#tabela-de-conteúdo"
+  },"31": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Suporte",
+    "content": "Standard . ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#suporte",
+    "relUrl": "/docs/literal_incondicional.html#suporte"
+  },"32": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Sintaxe",
+    "content": "'&lt;text&gt;' . ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#sintaxe",
+    "relUrl": "/docs/literal_incondicional.html#sintaxe"
+  },"33": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Notas",
+    "content": "As literais incondicionais podem estar em qualquer lugar do formato, e podem ser usadas para passar parâmetros para as funções. ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#notas",
+    "relUrl": "/docs/literal_incondicional.html#notas"
+  },"34": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Exemplos",
+    "content": "1 'este texto sempre será gerado na saída', 2 'Nome: ',v1/, . ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#exemplos",
+    "relUrl": "/docs/literal_incondicional.html#exemplos"
+  },"35": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Veja também",
+    "content": "comando \"string\" comando |string| . ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html#veja-tamb%C3%A9m",
+    "relUrl": "/docs/literal_incondicional.html#veja-também"
+  },"36": {
+    "doc": "Literal incondicional 'string'",
+    "title": "Literal incondicional 'string'",
+    "content": " ",
+    "url": "http://localhost:9898/docs/literal_incondicional.html",
+    "relUrl": "/docs/literal_incondicional.html"
+  },"37": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Nova linha incondicional (#)",
+    "content": "Salta para a linha seguinte incondicionalmente. ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html",
+    "relUrl": "/docs/nova_linha_incondicional.html"
+  },"38": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Tabela de conteúdo",
+    "content": ". | Suporte | Sintaxe | Exemplos | Veja também | . ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html#tabela-de-conte%C3%BAdo",
+    "relUrl": "/docs/nova_linha_incondicional.html#tabela-de-conteúdo"
+  },"39": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Suporte",
+    "content": "Standard . ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html#suporte",
+    "relUrl": "/docs/nova_linha_incondicional.html#suporte"
+  },"40": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Sintaxe",
+    "content": "# . ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html#sintaxe",
+    "relUrl": "/docs/nova_linha_incondicional.html#sintaxe"
+  },"41": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Exemplos",
+    "content": "1 #,(\"Endereço: \" v3(9,9)+|; |#), 2 (|Nome: |v1^n,c20,|Sobrenome: |v1^s/),###, . ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html#exemplos",
+    "relUrl": "/docs/nova_linha_incondicional.html#exemplos"
+  },"42": {
+    "doc": "Nova linha incondicional (#)",
+    "title": "Veja também",
+    "content": "comando / comando % . ",
+    "url": "http://localhost:9898/docs/nova_linha_incondicional.html#veja-tamb%C3%A9m",
+    "relUrl": "/docs/nova_linha_incondicional.html#veja-também"
+  }
+}
